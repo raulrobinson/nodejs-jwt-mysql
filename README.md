@@ -1,6 +1,6 @@
 # nodejs-jwt-mysql
 
-Backend Nodejs JWT for AutoMOX Control System Automatic
+Back-End for Login & Roles and JWT with Node.js and MySQL for AutoMOX Control System.
 
 - **Register**
 
