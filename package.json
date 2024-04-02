@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-jwt-mysql",
+  "version": "1.0.0",
+  "description": "Backend Nodejs for JWT AutoMOX Control System",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "serve": "nodemon app.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "jwt",
+    "login",
+    "registration",
+    "authentication",
+    "authorization",
+    "MySQL",
+    "Sequelize"
+  ],
+  "author": "Raul Bolivar Navas @rasysbox",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raulrobinson/nodejs-jwt-mysql"
+  },
+  "license": "ISC"
+}
