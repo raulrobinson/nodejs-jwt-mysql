@@ -8,6 +8,25 @@ Backend Node.js for JWT AutoMOX Control System
 
 ---
 
+- **.env**
+
+```text
+# --- Main ---
+PORT=${port}
+
+# --- Database ---
+BD_HOST=${bd_host}
+BD_USER=${bd_user}
+BD_PASS=${bd_pass}
+BD_BBDD=${bd_name}
+
+# --- Access Control ---
+APP_ID_MAIN=${app_id_main}
+APP_ID_SUB=${app_id_sub}
+```
+
+---
+
 **Sign Up User**
 ```text
 curl --location 'localhost:8080/api/auth/signup' \
